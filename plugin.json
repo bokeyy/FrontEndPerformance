@@ -1,0 +1,16 @@
+{
+  "name": "FrontEndPerformance",
+  "version": "0.1.0",
+  "description": "Front-end performance data report from real user browsers.",
+  "theme": false,
+  "require": {
+    "piwik": ">=2.15.1-b9"
+  },
+  "authors": [
+    {
+      "name": "Piwik",
+      "email": "",
+      "homepage": ""
+    }
+  ]
+}
